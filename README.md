@@ -1,4 +1,4 @@
-# Room Customer Demo ? COMP3074
+# Room Customer Demo - COMP3074
 
 Kotlin app using Room, Compose, Flow, ViewModel, LazyColumn and KSP.
 
